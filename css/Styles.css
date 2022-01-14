@@ -8,6 +8,7 @@ font-size:200%;
 
 
 
+
 h1{
   line-height: 1;
     font-size:5.625rem;
@@ -51,6 +52,12 @@ text-decoration: none;
 a:hover{
   color:white;
 }
+.ajit-img{
+max-width: 300px;
+height: auto;
+}
+
+
 .topBox{
   background-color:#E4F9F5;
 
